@@ -38,4 +38,4 @@ In this project, I've broken down the complex business data into five easy-to-un
 
 ## Experience the Live Dashboard
 
-[https://lnkd.in/ge9rqepQ](#)
+[https://lnkd.in/ge9rqepQ](https://lnkd.in/ge9rqepQ)

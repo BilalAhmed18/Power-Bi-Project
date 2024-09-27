@@ -38,4 +38,4 @@ In this project, I've broken down the complex business data into five easy-to-un
 
 ## Experience the Live Dashboard
 
-[https://lnkd.in/ge9rqepQ](https://lnkd.in/ge9rqepQ)
+[[https://lnkd.in/ge9rqepQ](https://lnkd.in/ge9rqepQ)](https://app.powerbi.com/view?r=eyJrIjoiNzUzZTIyMjItZDAzYi00NTE1LTk0ODMtMzFjNWEwYTk0YjljIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9&pageName=ReportSection4edd4258365016305ee4)
